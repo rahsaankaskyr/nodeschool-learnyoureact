@@ -1,0 +1,9 @@
+
+
+git remote add origin https://github.com/takonyc/nodeschool-learnyoureact.git
+
+
+
+$ (sudo) npm i -g learnyoureact
+
+$ learnyoureact
