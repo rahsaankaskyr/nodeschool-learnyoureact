@@ -56,6 +56,9 @@ This program uses the express-react-views module for view rendering.
 Next, create a views directory in the same directory as program.js,
 and create index.jsx in the 'views' directory.
 
+
+
+
 Copy the code below into index.jsx:
 
     import React from 'react';
@@ -84,3 +87,12 @@ Finally, run learnyoureact verify program.js to check your solution.
  » To execute your program in a test environment, run: learnyoureact run program.js
  » To verify your program, run: learnyoureact verify program.js
  » For help run: learnyoureact help
+
+
+
+
+
+
+
+
+
