@@ -153,7 +153,6 @@ Don't forget render and return! :-)
       I am a TodoForm.
     </div>
 
-JSX Docs: [https://](https://)
 
 When you are ready run node program.js and access http://localhost:3000 to
 see the HTML output in the browser.
